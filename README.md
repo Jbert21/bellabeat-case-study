@@ -4,7 +4,7 @@
 
 This case study is part of the Google Data Analytics Professional Certificate capstone project.
 
-The objective is to analyze smart device usage data from non-Bellabeat users in order to identify behavioural trends in how consumers use wearable fitness devices. These insights are then applied to a Bellabeat product to provide recommendations that support marketing strategy and future business growth.
+The objective is to analyze smart device usage data from Fitbit users in order to identify behavioural trends in how consumers use wearable fitness devices. These insights are then applied to a Bellabeat product to provide recommendations that support marketing strategy and future business growth.
 
 Bellabeat is a wellness technology company that creates health-focused smart products designed primarily for women. Understanding user behaviour in similar fitness tracking devices helps inform product development and marketing decisions.
 
